@@ -41,4 +41,4 @@ services:
       - PMA_HOST=db
       - UPLOAD_LIMIT=300m
     ports:
-      - 8077:80
+      - 8071:80
